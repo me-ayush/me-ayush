@@ -56,7 +56,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-<img src ="/social_dashboard.svg" align = "left" width = 50%>
+<img src ="/images/social_dashboard.svg" align = "left" width = 50%>
 <div>
   <br>
   <br>
