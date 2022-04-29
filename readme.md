@@ -56,12 +56,6 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-<img src ="/images/social_dashboard.svg" align = "left" width = 50%>
-<div>
-  <br>
-  <br>
-  <br>
-
 <!-- <p align="left">
 <a href="https://www.facebook.com/meayush.ak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/me-ayush" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
@@ -70,23 +64,36 @@
 <a href="https://www.twitter.com/ayush__kushwaha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p> -->
 
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](http://www.linkedin.com/in/ayushkushwaha)
-<br><br>
-[<img align="top" alt="Facebook" src="https://img.shields.io/badge/Facebook-20BEFF?style=for-the-badge&logo=Facebook&logoColor=white" />](https://www.facebook.com/meayush.ak)
-<br><br>
-[<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_.ayush_kushwaha._/)
-<!-- <br><br> -->
+<a href="http://www.linkedin.com/in/ayushkushwaha" target="_blank">
+<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+</a>
+
+
+<a href="mailto:meayush.ak@gmail.com" target="_blank">
+<img align="top" alt="Gmail" src="https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="http://www.facebook.com/meayush.ak" target="_blank">
+<img align="top" alt="Facebook" src="https://img.shields.io/badge/Facebook-6150c8?style=for-the-badge&logo=Facebook&logoColor=white" />
+</a>
+
+<a href="http://www.instagram.com/_.ayush_kushwaha._" target="_blank">
+<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-e84869?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.twitter.com/ayush__kushwaha" target="_blank">
+<img align="top" alt="twitter" src="https://img.shields.io/badge/Twitter-FFF?style=for-the-badge&logo=twitter&logoColor=blue" />
+</a>
+
+
 <!-- [<img align="top" alt="Github" src="https://img.shields.io/badge/Github-FE7A16?style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/me-ayush)
-<br><br> -->
+
 [<img align="top" alt="twitter" src="https://img.shields.io/badge/Twitter-0A0A0A?style=for-the-badge&logo=Twitter&logoColor=white" />](https://www.twitter.com/ayush__kushwaha)
-<br><br>
+
 <!-- [<img align="top" alt="Leetcode" src="https://img.shields.io/badge/Leetcode-2962FF?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/ayush_kushwaha) -->
 
 
-
-<!-- <a href="http://www.github.com/me-ayush"><img src="https://activity-graph.herokuapp.com/graph?username=me-ayush&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
-
-  <br><br><br>  <br><br><br> 
+<h2>My Github Stat's</h2>
   
  ![Ayush's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=me-ayush&theme=redical&hide_border=true&area=true)
 | ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=me-ayush&show_icons=true&theme=radical)             | ![Ayush GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=me-ayush&theme=radical)                                                                                                           |
