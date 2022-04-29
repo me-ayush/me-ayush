@@ -93,14 +93,17 @@
 <!-- [<img align="top" alt="Leetcode" src="https://img.shields.io/badge/Leetcode-2962FF?style=for-the-badge&logo=leetcode&logoColor=white" />](https://leetcode.com/ayush_kushwaha) -->
 
 
+<details>
+ <summary>
 <h2>My Github Stat's</h2>
-  
+ </summary>
+ 
  ![Ayush's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=me-ayush&theme=redical&hide_border=true&area=true)
 | ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=me-ayush&show_icons=true&theme=radical)             | ![Ayush GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=me-ayush&theme=radical)                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 <!-- | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=me-ayush&langs_count=8&theme=radical&layout=compact) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=me-ayush&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=radical) | -->
 
- <br>
+</details>
  
 ## Just a Snake 🐍 Eating away my Contributions...😭
 <p align='center'><img src='https://raw.githubusercontent.com/me-ayush/me-ayush/output/github-contribution-grid-snake.svg'></p>
