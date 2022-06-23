@@ -1,7 +1,7 @@
 <div align="center">
 <img width="" height = "" src="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" alt="cover" />
 </div>
-<h1> Hello Fellow < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello Fellow < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30> </h1>
 <p align='center'>
 </p>
 
@@ -11,7 +11,7 @@
 <div size='20px'> Hi! My name is Ayush. Thank You for taking the time to view my GitHub Profile :smile:
 </div>
 
-<h2><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px>  About Me </h2>
+<h2><img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50>  About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -29,7 +29,7 @@
 <br>
 
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> </h2>
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -54,7 +54,7 @@
 
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width=100> </h2>
 
 <!-- <p align="left">
 <a href="https://www.facebook.com/meayush.ak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
@@ -120,12 +120,12 @@
 
 
  
-## Just a Snake 🐍 Eating away my Contributions...😭
+<!-- ## Just a Snake 🐍 Eating away my Contributions...😭
 <p align='center'><img src='https://raw.githubusercontent.com/me-ayush/me-ayush/output/github-contribution-grid-snake.svg'></p>
  
- <br>
+ <br> -->
  
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width=32></h2>
  
  <div align="center">
  
@@ -133,7 +133,7 @@
  
 </div>
  
-<h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
+<!-- <h2 align='center'>Support Me By Starring ⭐ Some Of My Repositories</h2>
 <p align='center'>
 <img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-<br>
+<br> -->
