@@ -5,7 +5,7 @@
 <p align='center'>
 </p>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=me-ayush.me-ayush)
+<!--![Profile views](https://visitor-badge.glitch.me/badge?page_id=me-ayush.visitor-badge)-->
 [![Github](https://img.shields.io/github/followers/me-ayush?label=Follow&style=social)](https://github.com/me-ayush)
 
 <div size='20px'> Hi! My name is Ayush. Thank You for taking the time to view my GitHub Profile :smile:
@@ -96,7 +96,7 @@
 <h2>Github Stats 📊</h2>
 
  <details><summary><h3>Recent GitHub Activity⚡</h3></summary>
-<a href="https://github.com/me-ayush"><img alt="Ayush's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=me-ayush&theme=redical&hide_border=true&area=true" /></a>
+<a href="https://github.com/me-ayush"><img alt="Ayush's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=me-ayush&theme=redical&hide_border=true&area=true" /></a>
 </details>
  
  <details><summary><h3>GitHub Profile Stats 💻 </h3></summary>
